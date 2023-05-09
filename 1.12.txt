@@ -1,0 +1,1 @@
+Nowe zmiany naniesione na innym PC. Test pracy z 2 różnych komputerów na tym samym repo.
